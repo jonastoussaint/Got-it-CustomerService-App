@@ -8,6 +8,10 @@
         "source": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/res/menu/menu_main.xml"
     },
     {
+        "merged": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/build/intermediates/res/merged/debug/font_convergence.xml.flat",
+        "source": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/res/font/convergence.xml"
+    },
+    {
         "merged": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
@@ -70,6 +74,10 @@
     {
         "merged": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/build/intermediates/res/merged/debug/drawable_got_it_logo.jpg.flat",
+        "source": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/res/drawable/got_it_logo.jpg"
     },
     {
         "merged": "/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",

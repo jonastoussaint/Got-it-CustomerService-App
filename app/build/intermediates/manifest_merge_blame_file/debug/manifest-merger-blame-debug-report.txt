@@ -18,7 +18,7 @@
 12-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:6:22-64
 13
 14    <application
-14-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:8:5-27:19
+14-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:8:5-30:19
 15        android:name="com.example.goitcustomerserviceapp.App"
 15-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:9:9-28
 16        android:allowBackup="true"
@@ -34,30 +34,36 @@
 21-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:14:9-54
 22        android:supportsRtl="true"
 22-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:15:9-35
-23        android:testOnly="true"
-24        android:theme="@style/AppTheme"
-24-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:16:9-40
-25        android:usesCleartextTraffic="true" >
-25-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:10:9-44
-26        <activity
-26-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:17:9-26:20
-27            android:name="com.example.goitcustomerserviceapp.MainActivity"
-27-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:18:13-41
-28            android:label="@string/app_name"
-28-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:19:13-45
-29            android:theme="@style/AppTheme.NoActionBar" >
-29-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:20:13-56
-30            <intent-filter>
-30-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:21:13-25:29
-31                <action android:name="android.intent.action.MAIN" />
-31-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:22:17-69
-31-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:22:25-66
-32
-33                <category android:name="android.intent.category.LAUNCHER" />
-33-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:24:17-77
-33-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:24:27-74
-34            </intent-filter>
-35        </activity>
-36    </application>
-37
-38</manifest>
+23        android:theme="@style/AppTheme"
+23-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:16:9-40
+24        android:usesCleartextTraffic="true" >
+24-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:10:9-44
+25        <activity
+25-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:17:9-26:20
+26            android:name="com.example.goitcustomerserviceapp.MainActivity"
+26-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:18:13-41
+27            android:label="@string/app_name"
+27-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:19:13-45
+28            android:theme="@style/AppTheme.NoActionBar" >
+28-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:20:13-56
+29            <intent-filter>
+29-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:21:13-25:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:22:17-69
+30-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:24:17-77
+32-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:24:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <meta-data
+36-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:27:9-29:57
+37            android:name="preloaded_fonts"
+37-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:28:13-43
+38            android:resource="@array/preloaded_fonts" />
+38-->/Users/jones/Desktop/FAMU/Spring 2020/CIS 4910 (IS Dev Proj)/Got-it-CustomerService-App/app/src/main/AndroidManifest.xml:29:13-54
+39    </application>
+40
+41</manifest>

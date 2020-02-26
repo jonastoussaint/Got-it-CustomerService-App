@@ -29,6 +29,10 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
 attr action
 attr actionBarDivider
 attr actionBarItemBackground
@@ -1023,6 +1027,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable got_it_logo
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_chip_checked_black
@@ -1045,6 +1050,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font convergence
 id ALT
 id CTRL
 id FUNCTION
@@ -1118,6 +1124,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id button
 id buttonPanel
 id button_first
 id button_second
@@ -1134,6 +1141,7 @@ id container
 id content
 id contentPanel
 id coordinator
+id coordinatorLayout
 id custom
 id customPanel
 id decor_content_parent
@@ -1147,6 +1155,8 @@ id dialog_button
 id dimensions
 id direct
 id disableHome
+id editText
+id editText3
 id edit_query
 id end
 id enterAlways
@@ -1154,7 +1164,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1171,6 +1180,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView
 id info
 id invisible
 id italic
@@ -1279,7 +1289,6 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
-id toolbar
 id top
 id topPanel
 id touch_outside
